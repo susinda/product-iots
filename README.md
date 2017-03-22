@@ -4,7 +4,8 @@
      alt="WSO2 IoT Server" />
 </a>
 
-# Welcome to WSO2 IoT Server 
+# Welcome to WSO2 IoT Server
+
 <a href='https://wso2.org/jenkins/job/products/job/product-iots/'><img src='https://wso2.org/jenkins/job/products/job/product-iots/badge/icon'></a>
 
 WSO2 IoT Server is a complete solution that enables device manufacturers and enterprises to connect and manage their devices, build apps, manage events, secure devices and data, and visualize sensor data in a scalable manner.
